@@ -1,7 +1,7 @@
 /*
 
 Progetto Monopoly
-Sviluppatore: Mykhailo Rudovskyi
+Sviluppatore: Nazar Markov
 Classe: 3TELF
 Tempo impiegato: ??? h
 
