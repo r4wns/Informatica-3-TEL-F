@@ -9,4 +9,4 @@ Telegram: https://t.me/r4wns
 
 Discord: https://www.discordapp.com/users/703243684334010480
 
-Twitter(X): https://www.twitter.com/username/r4wnsss
+Twitter(X): https://www.twitter.com/r4wnsss
