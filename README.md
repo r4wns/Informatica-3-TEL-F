@@ -1,5 +1,5 @@
 # Informatica-3-TEL-F
-=====================
+------------------------------------
 Works for informatica by Nazar Markov
 in 3 TEL F
 
