@@ -1,5 +1,4 @@
 {
-  "version": "0.2.0",
   "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
@@ -7,9 +6,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/GitProjects/source/repos/Informatica-3-TEL-F",
-      "program": "c:/GitProjects/source/repos/Informatica-3-TEL-F/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/workspace/Informatica-3-TEL-F/Projects/11_Monopoly",
+      "program": "/workspace/Informatica-3-TEL-F/Projects/11_Monopoly/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
